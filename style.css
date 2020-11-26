@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+.Buttons {
+    background-color: aquamarine;
+    color: coral;
+    height:70px;
+    width: 70px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: Gills Sans, sans-serif;
+}
+h1 {
+    color: yellow;
+}
